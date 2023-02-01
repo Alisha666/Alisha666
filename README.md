@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- <img src="https://camo.githubusercontent.com/f39b0dbcd5bef1a1d1a44021c77144bfe0480dbd8a9e809b83d955fb35fd5fea/68747470733a2f2f6d65646961322e67697068792e636f6d2f686561646572732f4769744875622f77385a4a4c744a626d7570682e676966"/> -->
 
 <!--
 **Alisha666/Alisha666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +18,11 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/alisha-sahu-302126157/" target="_blank" rel="noreferrer"><img src="./Blue.png" alt="my banner" height='300px' width='100%'></a>
 </p>
 
+
 <h3 align="center">
 Hi there, I'm <a href="https://www.linkedin.com/in/alisha-sahu-302126157/" target="_blank" rel="noreferrer">Alisha</a> 👋
 </h3>
+<img src="https://camo.githubusercontent.com/f39b0dbcd5bef1a1d1a44021c77144bfe0480dbd8a9e809b83d955fb35fd5fea/68747470733a2f2f6d65646961322e67697068792e636f6d2f686561646572732f4769744875622f77385a4a4c744a626d7570682e676966 />
 
 <h2 align="center">
 I'm a Full-Stack MERN Web Developer 💻 and Designer 🎨!
@@ -30,7 +32,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/alisha-sahu-302126157/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Mayank Raj | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/alisha-sahu-302126157/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Alisha Sahu | LinkedIn" width="21px"/></a>
 
 <a href="https://leetcode.com/alishsahu666/"><img align="left" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="Alisha Sahu | Leetcode" width="21px"/></a>
 </br>
@@ -39,7 +41,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 🔭 I'm currently working on
 
 - My old projects
-- Mobile + Desktop Spotify Clone (Working on it soon...)
+- Mobile + Desktop 1MG Clone 
 - My next blog
 - My Frontend-backend skill
 
@@ -84,10 +86,10 @@ I love the entire process of developing creative websites. I love the challenge 
 - [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
 - [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602) -->
 
-## 📈 GitHub Stats 
+<!-- ## 📈 GitHub Stats 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mayankCreation0)](https://github.com/mayankCreation0)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankCreation0&layout=compact)](https://github.com/mayankCreation0)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=mayankCreation0.mayankCreation0)](https://github.com/mayankCreation0)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=mayankCreation0.mayankCreation0)](https://github.com/mayankCreation0) -->
