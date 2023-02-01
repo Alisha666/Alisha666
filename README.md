@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/alisha-sahu-302126157/" target="_blank" rel="noreferrer"><img src="./Blue.png" alt="my banner" height='300px' width='100%'></a>
+  <a href="https://www.linkedin.com/in/alisha-sahu-302126157/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f39b0dbcd5bef1a1d1a44021c77144bfe0480dbd8a9e809b83d955fb35fd5fea/68747470733a2f2f6d65646961322e67697068792e636f6d2f686561646572732f4769744875622f77385a4a4c744a626d7570682e676966 "/> alt="my banner" height='300px' width='100%'></a>
 </p>
 
 
 <h3 align="center">
 Hi there, I'm <a href="https://www.linkedin.com/in/alisha-sahu-302126157/" target="_blank" rel="noreferrer">Alisha</a> 👋
 </h3>
-<img src="https://camo.githubusercontent.com/f39b0dbcd5bef1a1d1a44021c77144bfe0480dbd8a9e809b83d955fb35fd5fea/68747470733a2f2f6d65646961322e67697068792e636f6d2f686561646572732f4769744875622f77385a4a4c744a626d7570682e676966 />
+<!-- <img src="https://camo.githubusercontent.com/f39b0dbcd5bef1a1d1a44021c77144bfe0480dbd8a9e809b83d955fb35fd5fea/68747470733a2f2f6d65646961322e67697068792e636f6d2f686561646572732f4769744875622f77385a4a4c744a626d7570682e676966 /> -->
 
 <h2 align="center">
 I'm a Full-Stack MERN Web Developer 💻 and Designer 🎨!
