@@ -1,22 +1,6 @@
-<!-- <img src="https://camo.githubusercontent.com/f39b0dbcd5bef1a1d1a44021c77144bfe0480dbd8a9e809b83d955fb35fd5fea/68747470733a2f2f6d65646961322e67697068792e636f6d2f686561646572732f4769744875622f77385a4a4c744a626d7570682e676966"/> -->
-
-<!--
-**Alisha666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-  <a href="https://www.linkedin.com/in/alisha-sahu-302126157/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f39b0dbcd5bef1a1d1a44021c77144bfe0480dbd8a9e809b83d955fb35fd5fea/68747470733a2f2f6d65646961322e67697068792e636f6d2f686561646572732f4769744875622f77385a4a4c744a626d7570682e676966 " alt="my banner" height='300px' width='100%'/></a>
-</p>
+<!-- <p align="center">
+  <a href="https://www.linkedin.com/in/alisha-sahu-302126157/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f39b0dbcd5bef1a1d1a44021c77144bfe0480dbd8a9e809b83d955fb35fd5fea/68747470733a2f2f6d65646961322e67697068792e636f6d2f686561646572732f4769744875622f77385a4a4c744a626d7570682e676966 "/>
+</p> -->
 
 
 <h3 align="center">
@@ -30,7 +14,7 @@ I'm a Full-Stack MERN Web Developer 💻 and Designer 🎨!
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/alisha-sahu-302126157/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Alisha Sahu | LinkedIn" width="21px"/></a>
 
@@ -40,17 +24,20 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- Mobile + Desktop 1MG Clone 
-- My next blog
+- Cognizant Technology Solutions
 - My Frontend-backend skill
 
-## 🌱 I'm currently learning
+## 🌱 I'm currently learning Full Stack web development
+ 
+## 👯 I’m looking to collaborate on real products while working for an organization.
 
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+## 👨‍💻 All of my projects are available at https://alishasahu-portfolio.netlify.app/
+
+## 💬 Ask me about Java, JavaScript, HTML, CSS, React, Redux, Nodejs or MongoDB, I would love to help.
+## 📫 How to reach me alishsahu666@gmail.com.
+## 📄 Know about my experiences (https://drive.google.com/file/d/1jjMREXigNosHxi9OyfMQCvj7CYZvBlPo/view?usp=share_link)
+
+
 
 ## 💼 Technical Skills
 
@@ -74,12 +61,11 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-<!-- ## 📝 Latest Blog Posts
+<!--## 📝 Latest Blog Posts
 
 - [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
 - [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
